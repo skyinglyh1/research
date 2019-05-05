@@ -48,7 +48,7 @@
 <p align="center">
 <img
     src="https://github.com/skyinglyh1/research/blob/master/stablecoin/resources/appScenario.png"
-    width=50% length=50%
+    width=100% length=100%
   >
 </p>
 
