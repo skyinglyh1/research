@@ -43,11 +43,11 @@
 
 如：法币出入桥梁、交易对、币市避险资产、资金支付、跨境支付与大宗交易、个人交易媒介、投资者头寸管理（套利、风险对冲）、储值手段、社区治理方面帮助流通通证的量化与保值
 
-具体可参照resources文件夹中的[StablecoinsPresentation2019.pdf]().
+具体可参照resources文件夹中的[StablecoinsPresentation2019.pdf](https://github.com/skyinglyh1/research/blob/master/stablecoin/resources/StablecoinsPresentation2019.pdf).
 
 <p align="center">
 <img
-    src="https://github.com/skyinglyh1/research/resources/appScenario.png"
+    src="https://github.com/skyinglyh1/research/blob/master/stablecoin/resources/appScenario.png"
     width=50% length=50%
   >
 </p>
